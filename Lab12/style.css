@@ -1,0 +1,6 @@
+.smalltext li::marker {
+  font-size: 10px;
+}
+footer {
+  margin-top: 150px;
+}
